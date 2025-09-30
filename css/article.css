@@ -1,0 +1,540 @@
+/* 文章页面专用样式 */
+
+.article-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem 0;
+}
+
+.article-header {
+    margin-bottom: 3rem;
+    text-align: center;
+    padding-bottom: 2rem;
+    border-bottom: 2px solid #f1f5f9;
+}
+
+/* 面包屑导航 */
+.breadcrumb {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 2rem;
+    font-size: 0.875rem;
+    color: #6b7280;
+}
+
+.breadcrumb a {
+    color: #2563eb;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.breadcrumb a:hover {
+    color: #1d4ed8;
+}
+
+.breadcrumb span {
+    color: #9ca3af;
+}
+
+/* 文章标题 */
+.article-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    line-height: 1.2;
+    color: #1f2937;
+    margin-bottom: 1.5rem;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* 文章元信息 */
+.article-meta {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+    font-size: 0.875rem;
+    color: #6b7280;
+}
+
+.meta-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.meta-item i {
+    color: #2563eb;
+}
+
+/* 文章内容区域 */
+.article-content {
+    line-height: 1.8;
+    color: #374151;
+    font-size: 1.1rem;
+}
+
+.article-intro {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 2rem;
+    border-radius: 12px;
+    margin-bottom: 3rem;
+    font-size: 1.125rem;
+}
+
+.article-intro strong {
+    color: #fbbf24;
+}
+
+/* 目录 */
+.table-of-contents {
+    background: #f8fafc;
+    border: 2px solid #e5e7eb;
+    border-radius: 12px;
+    padding: 2rem;
+    margin: 3rem 0;
+}
+
+.table-of-contents h3 {
+    color: #1f2937;
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
+}
+
+.table-of-contents ul {
+    list-style: none;
+    padding: 0;
+}
+
+.table-of-contents li {
+    margin-bottom: 0.75rem;
+    padding-left: 1.5rem;
+    position: relative;
+}
+
+.table-of-contents li::before {
+    content: "→";
+    position: absolute;
+    left: 0;
+    color: #2563eb;
+    font-weight: bold;
+}
+
+.table-of-contents a {
+    color: #374151;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.table-of-contents a:hover {
+    color: #2563eb;
+}
+
+/* 内容章节 */
+.content-section {
+    margin: 4rem 0;
+    scroll-margin-top: 100px; /* 为固定导航栏留出空间 */
+}
+
+.content-section h2 {
+    color: #1f2937;
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid #2563eb;
+    position: relative;
+}
+
+.content-section h3 {
+    color: #374151;
+    font-size: 1.5rem;
+    margin: 2rem 0 1rem 0;
+    font-weight: 600;
+}
+
+.content-section h4 {
+    color: #4b5563;
+    font-size: 1.25rem;
+    margin: 1.5rem 0 0.75rem 0;
+    font-weight: 600;
+}
+
+.content-section h5 {
+    color: #6b7280;
+    font-size: 1.125rem;
+    margin: 1rem 0 0.5rem 0;
+    font-weight: 600;
+}
+
+/* 段落和列表 */
+.content-section p {
+    margin-bottom: 1.5rem;
+    line-height: 1.8;
+}
+
+.content-section ul,
+.content-section ol {
+    margin: 1.5rem 0;
+    padding-left: 2rem;
+}
+
+.content-section li {
+    margin-bottom: 0.75rem;
+    line-height: 1.7;
+}
+
+.content-section strong {
+    color: #1f2937;
+    font-weight: 600;
+}
+
+/* 引用块 */
+blockquote {
+    background: #f8fafc;
+    border-left: 4px solid #2563eb;
+    padding: 1.5rem 2rem;
+    margin: 2rem 0;
+    font-style: italic;
+    color: #4b5563;
+    border-radius: 0 8px 8px 0;
+}
+
+blockquote p {
+    margin: 0;
+    font-size: 1.125rem;
+}
+
+/* 高亮框 */
+.highlight-box {
+    background: linear-gradient(135deg, #10b981, #059669);
+    color: white;
+    padding: 2rem;
+    border-radius: 12px;
+    margin: 2rem 0;
+}
+
+.highlight-box h4 {
+    color: white;
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
+}
+
+.pro-tip {
+    background: linear-gradient(135deg, #f59e0b, #d97706);
+    color: white;
+    padding: 2rem;
+    border-radius: 12px;
+    margin: 2rem 0;
+}
+
+.pro-tip h4 {
+    color: white;
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
+}
+
+.warning-box {
+    background: linear-gradient(135deg, #ef4444, #dc2626);
+    color: white;
+    padding: 2rem;
+    border-radius: 12px;
+    margin: 2rem 0;
+}
+
+.warning-box h4 {
+    color: white;
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
+}
+
+.warning-box ul {
+    margin: 0;
+}
+
+.tool-recommendation {
+    background: linear-gradient(135deg, #8b5cf6, #7c3aed);
+    color: white;
+    padding: 2rem;
+    border-radius: 12px;
+    margin: 2rem 0;
+}
+
+.tool-recommendation h4 {
+    color: white;
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
+}
+
+/* 因素网格 */
+.factors-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+
+.factor-card {
+    background: white;
+    border: 2px solid #e5e7eb;
+    border-radius: 12px;
+    padding: 1.5rem;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+.factor-card:hover {
+    border-color: #2563eb;
+    transform: translateY(-4px);
+    box-shadow: 0 8px 25px rgba(37, 99, 235, 0.15);
+}
+
+.factor-card h4 {
+    color: #1f2937;
+    margin-bottom: 0.75rem;
+}
+
+.factor-card p {
+    color: #6b7280;
+    margin: 0;
+    font-size: 0.975rem;
+}
+
+/* 关键词表格 */
+.keyword-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 2rem 0;
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.keyword-table th,
+.keyword-table td {
+    padding: 1rem;
+    text-align: left;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+.keyword-table th {
+    background: #f8fafc;
+    font-weight: 600;
+    color: #374151;
+}
+
+.keyword-table tr:hover {
+    background: #f8fafc;
+}
+
+/* 代码示例 */
+.code-example {
+    background: #1f2937;
+    color: #f9fafb;
+    padding: 1.5rem;
+    border-radius: 8px;
+    margin: 1.5rem 0;
+    overflow-x: auto;
+}
+
+.code-example h5 {
+    color: #10b981;
+    margin: 0 0 1rem 0;
+    font-size: 1rem;
+}
+
+.code-example code {
+    display: block;
+    font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    color: #e5e7eb;
+}
+
+/* 错误项目 */
+.mistake-item {
+    background: white;
+    border: 2px solid #fee2e2;
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin: 1.5rem 0;
+    transition: all 0.3s ease;
+}
+
+.mistake-item:hover {
+    border-color: #fca5a5;
+    box-shadow: 0 4px 12px rgba(239, 68, 68, 0.1);
+}
+
+.mistake-item h4 {
+    color: #dc2626;
+    margin-bottom: 0.75rem;
+}
+
+.mistake-item p {
+    margin-bottom: 0.5rem;
+}
+
+/* 文章结论 */
+.article-conclusion {
+    background: #f8fafc;
+    border: 2px solid #e5e7eb;
+    border-radius: 16px;
+    padding: 3rem;
+    margin: 4rem 0;
+    text-align: center;
+}
+
+.article-conclusion h2 {
+    color: #1f2937;
+    margin-bottom: 2rem;
+    border: none;
+    padding: 0;
+}
+
+.article-conclusion ul {
+    text-align: left;
+    max-width: 600px;
+    margin: 2rem auto;
+}
+
+/* 文章CTA */
+.article-cta {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 3rem;
+    border-radius: 16px;
+    text-align: center;
+    margin: 3rem 0;
+}
+
+.article-cta h3 {
+    color: white;
+    margin-bottom: 1rem;
+}
+
+.article-cta p {
+    margin-bottom: 2rem;
+    opacity: 0.9;
+    font-size: 1.1rem;
+}
+
+.cta-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.cta-buttons .btn {
+    background: rgba(255, 255, 255, 0.1);
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    color: white;
+}
+
+.cta-buttons .btn:hover {
+    background: white;
+    color: #667eea;
+    border-color: white;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    .article-title {
+        font-size: 2rem;
+        text-align: left;
+    }
+    
+    .article-meta {
+        flex-direction: column;
+        align-items: center;
+        gap: 1rem;
+    }
+    
+    .article-content {
+        font-size: 1rem;
+    }
+    
+    .content-section h2 {
+        font-size: 1.75rem;
+    }
+    
+    .content-section h3 {
+        font-size: 1.375rem;
+    }
+    
+    .factors-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .keyword-table {
+        font-size: 0.875rem;
+    }
+    
+    .keyword-table th,
+    .keyword-table td {
+        padding: 0.75rem 0.5rem;
+    }
+    
+    .article-intro,
+    .highlight-box,
+    .pro-tip,
+    .warning-box,
+    .tool-recommendation {
+        padding: 1.5rem;
+    }
+    
+    .article-conclusion,
+    .article-cta {
+        padding: 2rem 1.5rem;
+    }
+    
+    .cta-buttons {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media (max-width: 480px) {
+    .article-container {
+        padding: 1rem 0;
+    }
+    
+    .article-title {
+        font-size: 1.75rem;
+    }
+    
+    .table-of-contents {
+        padding: 1.5rem;
+    }
+    
+    .content-section h2 {
+        font-size: 1.5rem;
+    }
+    
+    .breadcrumb {
+        font-size: 0.8rem;
+    }
+}
+
+/* 打印样式 */
+@media print {
+    .article-cta,
+    .cta-buttons {
+        display: none;
+    }
+    
+    .article-content {
+        font-size: 12pt;
+        line-height: 1.6;
+    }
+    
+    .content-section {
+        break-inside: avoid;
+    }
+}
