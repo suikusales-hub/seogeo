@@ -7,10 +7,30 @@
 <meta name="description" content="SEO小平外贸SEO陪跑课，融合AI写作与小语种SEO，深入解析小语种蓝海市场和GEO策略，提供线下特训、线上视频库及一年一对一陪跑指导。">
 <meta name="keywords" content="SEO小平, 外贸SEO, 小语种SEO, AI写作, 跨境电商SEO, 独立站SEO, Google SEO, GEO生成式AI, SEO陪跑, 蓝海市场">
 <meta name="robots" content="index, follow">
+<link rel="canonical" href="https://seogeo.cc/peipaoke.html">
+
+<!-- 开放图谱标签 -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="SEO小平外贸SEO陪跑课 - AI时代小语种与外贸SEO实战">
+<meta property="og:description" content="SEO小平外贸SEO陪跑课，融合AI写作与小语种SEO，提供线下特训、线上视频库及一年一对一陪跑指导。">
+<meta property="og:url" content="https://seogeo.cc/peipaoke.html">
+<meta property="og:site_name" content="SEO小平博客">
+<meta property="og:locale" content="zh_CN">
+
+<!-- 样式文件 -->
+<link rel="stylesheet" href="css/style.css">
+
+<!-- Google Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css">
 
 <style>
 body {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Noto Sans SC', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     line-height: 1.6;
     color: #333;
     background-color: #f9f9f9;
@@ -24,17 +44,17 @@ body {
     padding: 20px;
     background-color: #fff;
 }
-header {
+.page-header {
     text-align: center;
     padding: 40px 20px;
     background: linear-gradient(to right, #1e3c72, #2a5298);
     color: #fff;
 }
-header h1 {
+.page-header h1 {
     margin: 0;
     font-size: 2.8em;
 }
-header p {
+.page-header p {
     font-size: 1.2em;
     margin-top: 10px;
 }
@@ -76,6 +96,7 @@ a.button {
     border-radius: 6px;
     font-size: 1.1em;
     margin-top: 20px;
+    transition: background-color 0.3s;
 }
 a.button:hover {
     background-color: #2a5298;
@@ -84,130 +105,489 @@ a.button:hover {
     color: #d9534f;
     font-weight: bold;
 }
+
+/* 导航栏样式 */
+.header {
+    background-color: #fff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+.navbar {
+    padding: 15px 0;
+}
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.nav-logo {
+    display: flex;
+    align-items: center;
+}
+.nav-logo-img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+.nav-text h1 {
+    margin: 0;
+    font-size: 1.5rem;
+}
+.nav-text h1 a {
+    color: #1e3c72;
+    text-decoration: none;
+}
+.nav-text .tagline {
+    margin: 0;
+    color: #666;
+    font-size: 0.9rem;
+}
+.nav-list {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.nav-list li {
+    position: relative;
+    margin-left: 30px;
+}
+.nav-link {
+    color: #333;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s;
+}
+.nav-link.active {
+    color: #1e3c72;
+    font-weight: 600;
+}
+.nav-link:hover {
+    color: #1e3c72;
+}
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #fff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    list-style: none;
+    padding: 10px 0;
+    margin: 0;
+    min-width: 200px;
+    display: none;
+    z-index: 100;
+}
+.dropdown-menu li {
+    margin: 0;
+}
+.dropdown-menu a {
+    display: block;
+    padding: 10px 20px;
+    color: #333;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+.dropdown-menu a:hover {
+    background-color: #f5f5f5;
+}
+.nav-dropdown:hover .dropdown-menu {
+    display: block;
+}
+.nav-toggle {
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+}
+.nav-toggle span {
+    width: 25px;
+    height: 3px;
+    background-color: #333;
+    margin: 3px 0;
+}
+
+/* 页脚样式 */
+.footer {
+    background-color: #1e3c72;
+    color: #fff;
+    padding: 40px 0 20px;
+    margin-top: 60px;
+}
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.footer-section {
+    flex: 1;
+    min-width: 250px;
+    margin-bottom: 30px;
+    padding-right: 20px;
+}
+.footer-section h4 {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #fff;
+    padding-bottom: 10px;
+}
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+}
+.footer-section ul li {
+    margin-bottom: 10px;
+}
+.footer-section a {
+    color: #ddd;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+.footer-section a:hover {
+    color: #fff;
+}
+.footer-contact-info p {
+    margin: 10px 0;
+}
+.location-info {
+    margin-top: 20px;
+}
+.location-address {
+    margin-bottom: 15px;
+    line-height: 1.8;
+}
+.map-container iframe {
+    width: 100%;
+    height: 200px;
+    border: none;
+    border-radius: 5px;
+}
+.footer-bottom {
+    text-align: center;
+    padding-top: 20px;
+    border-top: 1px solid #444;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.footer-links {
+    margin-bottom: 15px;
+}
+.footer-links a {
+    color: #ddd;
+    text-decoration: none;
+    margin: 0 10px;
+}
+.footer-links a:hover {
+    color: #fff;
+}
+
+@media (max-width: 768px) {
+    .nav-menu {
+        position: fixed;
+        top: 0;
+        right: -100%;
+        width: 80%;
+        height: 100%;
+        background-color: #fff;
+        box-shadow: -2px 0 10px rgba(0, 0, 0, 0.1);
+        transition: right 0.3s;
+        z-index: 1000;
+        padding-top: 80px;
+    }
+    .nav-menu.active {
+        right: 0;
+    }
+    .nav-list {
+        flex-direction: column;
+        padding: 0 20px;
+    }
+    .nav-list li {
+        margin: 0 0 15px 0;
+    }
+    .dropdown-menu {
+        position: static;
+        box-shadow: none;
+        padding-left: 20px;
+    }
+    .nav-toggle {
+        display: flex;
+        z-index: 1001;
+    }
+    .page-header h1 {
+        font-size: 2.2em;
+    }
+    section h2 {
+        font-size: 1.8em;
+    }
+    th, td {
+        padding: 10px 5px;
+        font-size: 0.9em;
+    }
+}
 </style>
 </head>
 <body>
+    <!-- 导航栏 -->
+    <header class="header">
+        <nav class="navbar">
+            <div class="nav-container">
+                <div class="nav-logo">
+                    <img src="images/logo.jpg" alt="SEO小平" class="nav-logo-img">
+                    <div class="nav-text">
+                        <h1><a href="/">SEO小平</a></h1>
+                        <p class="tagline">谷歌SEO专家</p>
+                    </div>
+                </div>
+                
+                <div class="nav-menu" id="nav-menu">
+                    <ul class="nav-list">
+                        <li><a href="/" class="nav-link">首页</a></li>
+                        <li class="nav-dropdown">
+                            <a href="#" class="nav-link">SEO知识 <i class="fas fa-chevron-down"></i></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/seo-basics.html">SEO基础</a></li>
+                                <li><a href="/keyword-research.html">关键词研究</a></li>
+                                <li><a href="/link-building.html">外链建设</a></li>
+                                <li><a href="/technical-seo.html">技术SEO</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="https://seogeo.cc/peipaoke.html" class="nav-link active">陪跑课</a></li>
+                        <li><a href="/case-studies.html" class="nav-link">案例分析</a></li>
+                        <li><a href="/tools.html" class="nav-link">SEO工具</a></li>
+                        <li><a href="/about.html" class="nav-link">关于我</a></li>
+                        <li><a href="/contact.html" class="nav-link">联系方式</a></li>
+                    </ul>
+                </div>
+                
+                <div class="nav-toggle" id="nav-toggle">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+        </nav>
+    </header>
 
-<div class="container">
+    <div class="container">
+        <!-- 页面标题区域 -->
+        <div class="page-header">
+            <h1>SEO小平外贸SEO陪跑课</h1>
+            <p>AI时代小语种 + 外贸SEO实战课程，精准布局蓝海市场</p>
+        </div>
 
-<header>
-    <h1>SEO小平外贸SEO陪跑课</h1>
-    <p>AI时代小语种 + 外贸SEO实战课程，精准布局蓝海市场</p>
-</header>
+        <!-- 课程概览 -->
+        <section id="overview">
+            <h2>课程概览</h2>
+            <div class="section-content">
+                <p>SEO小平外贸SEO陪跑课融合 <span class="highlight">AI写作</span> 与 <span class="highlight">小语种SEO</span>，不仅覆盖英语站点优化，还重点拓展西班牙语、德语、越南语等小语种市场。课程通过线下特训、线上视频库以及一年一对一陪跑指导，让学员全面掌握外贸独立站SEO策略，提升内容质量并获取精准流量。</p>
+                <p>在当前英语市场竞争日益激烈的背景下，<span class="highlight">小语种SEO是蓝海市场</span>：竞争低、潜力大、转化率高，企业可以通过精准选词和本地化内容快速占领市场份额，实现ROI最大化。</p>
+                <p>结合 <span class="highlight">GEO策略</span>，课程强调根据用户地理位置、语言习惯和搜索行为，精准生成AI内容，实现不同区域、多语种的SEO布局，为未来AI时代搜索算法和国际化流量获取做好充分准备。</p>
+            </div>
+        </section>
 
-<section id="overview">
-    <h2>课程概览</h2>
-    <div class="section-content">
-        <p>SEO小平外贸SEO陪跑课融合 <span class="highlight">AI写作</span> 与 <span class="highlight">小语种SEO</span>，不仅覆盖英语站点优化，还重点拓展西班牙语、德语、越南语等小语种市场。课程通过线下特训、线上视频库以及一年一对一陪跑指导，让学员全面掌握外贸独立站SEO策略，提升内容质量并获取精准流量。</p>
-        <p>在当前英语市场竞争日益激烈的背景下，<span class="highlight">小语种SEO是蓝海市场</span>：竞争低、潜力大、转化率高，企业可以通过精准选词和本地化内容快速占领市场份额，实现ROI最大化。</p>
-        <p>结合 <span class="highlight">GEO策略</span>，课程强调根据用户地理位置、语言习惯和搜索行为，精准生成AI内容，实现不同区域、多语种的SEO布局，为未来AI时代搜索算法和国际化流量获取做好充分准备。</p>
+        <!-- 上课信息 -->
+        <section id="schedule">
+            <h2>上课信息</h2>
+            <div class="section-content">
+                <p><strong>时间：</strong>每月一期（如10月中旬）</p>
+                <p><strong>地点：</strong>深圳市龙华区龙华街道东环一路184号，维也纳酒店（深圳北站龙华壹城中心山姆店）</p>
+            </div>
+        </section>
+
+        <!-- 课程亮点 -->
+        <section id="highlights">
+            <h2>课程亮点</h2>
+            <div class="section-content">
+                <ul>
+                    <li>英语 + 小语种 + AI写作，全方位覆盖不同语言网站SEO需求，AI助力内容创作效率倍增</li>
+                    <li>紧跟谷歌最新AI排名算法（AI Overview & AI Mode），掌握前沿SEO技巧</li>
+                    <li>深入解析小语种蓝海市场机会，低竞争、高潜力、快速获得精准流量</li>
+                    <li>GEO生成式AI内容布局，多区域、多语种策略结合AI写作，提高搜索引擎友好度</li>
+                    <li>导师SEO小平9年跨境实战经验传授，内容全为落地干货</li>
+                    <li>提供标准化SOP流程，快速复制落地操作，提升团队效率</li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- 三阶段陪跑体系 -->
+        <section id="stages">
+            <h2>三阶段陪跑体系（1年）</h2>
+            <div class="section-content">
+                <h3>第一阶段：线下特训（2天1夜）</h3>
+                <p>掌握SEO高阶策略与工具实操，现场制定优化方案，带回明确方向。</p>
+
+                <h3>第二阶段：线上视频库（一年回放）</h3>
+                <p>WordPress后台操作、GSC数据分析、AI工具教程及插件操作，可随时回放巩固学习。</p>
+
+                <h3>第三阶段：一对一陪跑</h3>
+                <p>专业顾问进入学员网站后台（可选），通过微信或腾讯会议实时辅导，定期复盘流量和数据，提供定制化优化方案。</p>
+            </div>
+        </section>
+
+        <!-- 主要培训内容 -->
+        <section id="content-modules">
+            <h2>主要培训内容</h2>
+            <div class="section-content">
+                <ul>
+                    <li>关键词策略与调研（SEMrush / “捕鱼模式”深度挖掘高潜力关键词）</li>
+                    <li>网站诊断与优化（结构、内链布局、SEO顶层设计）</li>
+                    <li>小语种SEO实战（非插件式本地化内容策略，越南语/德语/西班牙语等市场优化）</li>
+                    <li>内容优化与AI写作（ChatGPT / Gemini写作示范、标题元描述优化）</li>
+                    <li>外链建设与竞品分析（低成本高效外链策略、案例分析）</li>
+                    <li>团队SOP与管理（岗位分工、流程管理、标准化操作模板）</li>
+                    <li>GEO生成式AI布局，针对不同国家和地区定制内容和SEO策略</li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- 课程费用与报名 -->
+        <section id="pricing">
+            <h2>课程费用与报名</h2>
+            <div class="section-content">
+                <table>
+                    <tr>
+                        <th>报名人数</th>
+                        <th>费用（元）</th>
+                        <th>服务内容</th>
+                    </tr>
+                    <tr>
+                        <td>1 人</td>
+                        <td>9999</td>
+                        <td>1 个网站陪跑，1 年一对一深度指导</td>
+                    </tr>
+                    <tr>
+                        <td>2 人</td>
+                        <td>13000</td>
+                        <td>共享1个网站陪跑，适合同公司同事</td>
+                    </tr>
+                    <tr>
+                        <td>3 人</td>
+                        <td>15000</td>
+                        <td>共享1个网站陪跑</td>
+                    </tr>
+                    <tr>
+                        <td>4 人</td>
+                        <td>17000</td>
+                        <td>共享1个网站陪跑</td>
+                    </tr>
+                </table>
+                <p>注：单人单站陪跑按 9999 元/年计，平均每月仅 833 元，相当于聘请资深 SEO 主管远程管理项目，性价比极高。</p>
+                <p><strong>报名方式：</strong>添加微信号 <span class="highlight">Xiao_Ping_Up</span> 咨询课程详情</p>
+                
+                <a href="https://seogeo.cc/contact.html" class="button">
+                    <i class="fab fa-weixin"></i> 立即咨询
+                </a>
+            </div>
+        </section>
+
+        <!-- SEO & AI 内容优化策略 -->
+        <section id="seo-ai-optimization">
+            <h2>SEO & AI 内容优化策略</h2>
+            <div class="section-content">
+                <ul>
+                    <li>页面标题、H1-H3 层级、Meta Description 优化，覆盖核心关键词及长尾关键词</li>
+                    <li>GEO生成式AI内容策略：根据不同国家/语言搜索习惯生成本地化内容</li>
+                    <li>内链与结构优化，提升爬虫抓取效率和用户体验</li>
+                    <li>外链及社交媒体引流结合，形成多渠道流量闭环</li>
+                    <li>持续内容更新与优化，确保谷歌AI模式下的排名稳定性</li>
+                    <li>利用蓝海市场策略，小语种SEO快速占领低竞争市场，提高转化率</li>
+                </ul>
+            </div>
+        </section>
     </div>
-</section>
 
-<section id="schedule">
-    <h2>上课信息</h2>
-    <div class="section-content">
-        <p><strong>时间：</strong>每月一期（如10月中旬）</p>
-        <p><strong>地点：</strong>深圳市龙华区龙华街道东环一路184号，维也纳酒店（深圳北站龙华壹城中心山姆店）</p>
-    </div>
-</section>
+    <!-- 页脚 -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>SEO服务</h4>
+                    <ul>
+                        <li><a href="/keyword-research.html">关键词研究</a></li>
+                        <li><a href="/link-building.html">外链建设</a></li>
+                        <li><a href="/technical-seo.html">技术SEO</a></li>
+                        <li><a href="/seo-analysis.html">SEO分析</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-section">
+                    <h4>学习资源</h4>
+                    <ul>
+                        <li><a href="/seo-basics.html">SEO基础教程</a></li>
+                        <li><a href="https://seogeo.cc/peipaoke.html">陪跑课</a></li>
+                        <li><a href="/case-studies.html">成功案例</a></li>
+                        <li><a href="/tools.html">SEO工具</a></li>
+                        <li><a href="/articles.html">最新文章</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-section footer-contact-section">
+                    <div>
+                        <h4>联系方式</h4>
+                        <div class="footer-contact-info">
+                            <p><i class="fab fa-weixin"></i> 微信：Xiao_Ping_Up</p>
+                            <p><i class="fas fa-envelope"></i> 邮箱：info@seogeo.cc</p>
+                            <p><i class="fas fa-globe"></i> 网站：seogeo.cc</p>
+                        </div>
+                    </div>
+                    <div class="company-location">
+                        <h5>公司地址</h5>
+                        <div class="location-info">
+                            <div class="location-address">
+                                <i class="fas fa-map-marker-alt"></i>
+                                中国 广东省 深圳市 龙华区<br>
+                                深业泰然玫瑰轩503
+                            </div>
+                            <div class="map-container">
+                                <iframe 
+                                    src="https://maps.google.com/maps?q=%E4%B8%AD%E5%9B%BD%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%B7%B1%E5%9C%B3%E5%B8%82%E9%BE%99%E5%8D%8E%E5%8C%BA%E6%B7%B1%E4%B8%9A%E6%B3%B0%E7%84%B6%E7%8E%AB%E7%91%B0%E8%BD%A9&t=&z=15&ie=UTF8&iwloc=&output=embed"
+                                    allowfullscreen="" 
+                                    loading="lazy" 
+                                    referrerpolicy="no-referrer-when-downgrade"
+                                    title="SEO小平公司地址 - 深圳市龙华区深业泰然玫瑰轩503">
+                                </iframe>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <div class="footer-links">
+                    <a href="/privacy.html">隐私政策</a>
+                    <a href="/terms.html">服务条款</a>
+                    <a href="#">网站地图</a>
+                </div>
+                <p>&copy; 2025 SEO小平博客. 保留所有权利.</p>
+            </div>
+        </div>
+    </footer>
 
-<section id="highlights">
-    <h2>课程亮点</h2>
-    <div class="section-content">
-        <ul>
-            <li>英语 + 小语种 + AI写作，全方位覆盖不同语言网站SEO需求，AI助力内容创作效率倍增</li>
-            <li>紧跟谷歌最新AI排名算法（AI Overview & AI Mode），掌握前沿SEO技巧</li>
-            <li>深入解析小语种蓝海市场机会，低竞争、高潜力、快速获得精准流量</li>
-            <li>GEO生成式AI内容布局，多区域、多语种策略结合AI写作，提高搜索引擎友好度</li>
-            <li>导师SEO小平9年跨境实战经验传授，内容全为落地干货</li>
-            <li>提供标准化SOP流程，快速复制落地操作，提升团队效率</li>
-        </ul>
-    </div>
-</section>
-
-<section id="stages">
-    <h2>三阶段陪跑体系（1年）</h2>
-    <div class="section-content">
-        <h3>第一阶段：线下特训（2天1夜）</h3>
-        <p>掌握SEO高阶策略与工具实操，现场制定优化方案，带回明确方向。</p>
-
-        <h3>第二阶段：线上视频库（一年回放）</h3>
-        <p>WordPress后台操作、GSC数据分析、AI工具教程及插件操作，可随时回放巩固学习。</p>
-
-        <h3>第三阶段：一对一陪跑</h3>
-        <p>专业顾问进入学员网站后台（可选），通过微信或腾讯会议实时辅导，定期复盘流量和数据，提供定制化优化方案。</p>
-    </div>
-</section>
-
-<section id="content-modules">
-    <h2>主要培训内容</h2>
-    <div class="section-content">
-        <ul>
-            <li>关键词策略与调研（SEMrush / “捕鱼模式”深度挖掘高潜力关键词）</li>
-            <li>网站诊断与优化（结构、内链布局、SEO顶层设计）</li>
-            <li>小语种SEO实战（非插件式本地化内容策略，越南语/德语/西班牙语等市场优化）</li>
-            <li>内容优化与AI写作（ChatGPT / Gemini写作示范、标题元描述优化）</li>
-            <li>外链建设与竞品分析（低成本高效外链策略、案例分析）</li>
-            <li>团队SOP与管理（岗位分工、流程管理、标准化操作模板）</li>
-            <li>GEO生成式AI布局，针对不同国家和地区定制内容和SEO策略</li>
-        </ul>
-    </div>
-</section>
-
-<section id="pricing">
-    <h2>课程费用与报名</h2>
-    <div class="section-content">
-        <table>
-            <tr>
-                <th>报名人数</th>
-                <th>费用（元）</th>
-                <th>服务内容</th>
-            </tr>
-            <tr>
-                <td>1 人</td>
-                <td>9999</td>
-                <td>1 个网站陪跑，1 年一对一深度指导</td>
-            </tr>
-            <tr>
-                <td>2 人</td>
-                <td>13000</td>
-                <td>共享1个网站陪跑，适合同公司同事</td>
-            </tr>
-            <tr>
-                <td>3 人</td>
-                <td>15000</td>
-                <td>共享1个网站陪跑</td>
-            </tr>
-            <tr>
-                <td>4 人</td>
-                <td>17000</td>
-                <td>共享1个网站陪跑</td>
-            </tr>
-        </table>
-        <p>注：单人单站陪跑按 9999 元/年计，平均每月仅 833 元，相当于聘请资深 SEO 主管远程管理项目，性价比极高。</p>
- <p><strong>报名方式：</strong>添加微信号 <span class="highlight">Xiao_Ping_Up</span> 咨询课程详情</p>
-    </div>
-</section>
-
-<section id="seo-ai-optimization">
-    <h2>SEO & AI 内容优化策略</h2>
-    <div class="section-content">
-        <ul>
-            <li>页面标题、H1-H3 层级、Meta Description 优化，覆盖核心关键词及长尾关键词</li>
-            <li>GEO生成式AI内容策略：根据不同国家/语言搜索习惯生成本地化内容</li>
-            <li>内链与结构优化，提升爬虫抓取效率和用户体验</li>
-            <li>外链及社交媒体引流结合，形成多渠道流量闭环</li>
-            <li>持续内容更新与优化，确保谷歌AI模式下的排名稳定性</li>
-            <li>利用蓝海市场策略，小语种SEO快速占领低竞争市场，提高转化率</li>
-        </ul>
-    </div>
-</section>
-
-<footer style="text-align:center; padding:40px 20px; background:#1e3c72; color:#fff;">
-    <p>&copy; 2025 SEO小平外贸SEO陪跑课 | 深圳 | 提供AI + 小语种外贸SEO培训服务</p>
-</footer>
-
-</div>
+    <script>
+        // 移动端导航菜单切换
+        const navToggle = document.getElementById('nav-toggle');
+        const navMenu = document.getElementById('nav-menu');
+        
+        navToggle.addEventListener('click', () => {
+            navMenu.classList.toggle('active');
+        });
+        
+        // 点击导航链接后关闭移动菜单
+        const navLinks = document.querySelectorAll('.nav-link');
+        navLinks.forEach(link => {
+            link.addEventListener('click', () => {
+                if (window.innerWidth <= 768) {
+                    navMenu.classList.remove('active');
+                }
+            });
+        });
+    </script>
 </body>
 </html>
+    
