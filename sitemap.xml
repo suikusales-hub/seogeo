@@ -1,261 +1,609 @@
-<?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://seogeo.cc/de/link-building.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/de/tools.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/de/case-studies.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/en/link-building.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/de/keyword-research.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/link-building.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/de/seo-basics.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/de/contact.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/de/</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/de/technical-seo.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/de/articles.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/de/about.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/articles.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/de/seo-course.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/en/about.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/seo-basics.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/en/contact.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/case-studies.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/tools.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/keyword-research.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/en/case-studies.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/de/seo-analysis.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/de/privacy.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/technical-seo.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/en/</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/contact.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/en/keyword-research.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/en/seo-basics.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/en/technical-seo.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/de/terms.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/about.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/en/tools.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/privacy.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/en/seo-analysis.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/en/terms.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/en/articles.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/en/privacy.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/en/seo-course.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/seo-course.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/seo-analysis.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/seo-algorithm-understanding.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://seogeo.cc/terms.html</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+    <!-- 首页 / Homepage / Startseite -->
+    <url>
+        <loc>https://seogeo.cc/</loc>
+        <lastmod>2024-12-30</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://seogeo.cc/"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/en/</loc>
+        <lastmod>2024-12-30</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://seogeo.cc/"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/de/</loc>
+        <lastmod>2024-12-30</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://seogeo.cc/"/>
+    </url>
+    
+    <!-- SEO课程页面 / Course Pages / Kursseiten -->
+    <url>
+        <loc>https://seogeo.cc/seo-course.html</loc>
+        <lastmod>2024-12-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/seo-course.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/seo-course.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/seo-course.html"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/en/seo-course.html</loc>
+        <lastmod>2024-12-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/seo-course.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/seo-course.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/seo-course.html"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/de/seo-course.html</loc>
+        <lastmod>2024-12-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/seo-course.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/seo-course.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/seo-course.html"/>
+    </url>
+    
+    <!-- 关于页面 / About Pages / Über Seiten -->
+    <url>
+        <loc>https://seogeo.cc/about.html</loc>
+        <lastmod>2024-12-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/about.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/about.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/about.html"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/en/about.html</loc>
+        <lastmod>2024-12-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/about.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/about.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/about.html"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/de/about.html</loc>
+        <lastmod>2024-12-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/about.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/about.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/about.html"/>
+    </url>
+    
+    <!-- 联系页面 / Contact Pages / Kontakt Seiten -->
+    <url>
+        <loc>https://seogeo.cc/contact.html</loc>
+        <lastmod>2024-12-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/contact.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/contact.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/contact.html"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/en/contact.html</loc>
+        <lastmod>2024-12-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/contact.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/contact.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/contact.html"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/de/contact.html</loc>
+        <lastmod>2024-12-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/contact.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/contact.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/contact.html"/>
+    </url>
+    
+    <!-- 文章列表 / Articles / Artikel -->
+    <url>
+        <loc>https://seogeo.cc/articles.html</loc>
+        <lastmod>2024-12-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/articles.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/articles.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/articles.html"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/en/articles.html</loc>
+        <lastmod>2024-12-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/articles.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/articles.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/articles.html"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/de/articles.html</loc>
+        <lastmod>2024-12-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/articles.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/articles.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/articles.html"/>
+    </url>
+    
+    <!-- 工具页面 / Tools / Werkzeuge -->
+    <url>
+        <loc>https://seogeo.cc/tools.html</loc>
+        <lastmod>2024-12-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/tools.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/tools.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/tools.html"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/en/tools.html</loc>
+        <lastmod>2024-12-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/tools.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/tools.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/tools.html"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/de/tools.html</loc>
+        <lastmod>2024-12-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/tools.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/tools.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/tools.html"/>
+    </url>
+    
+    <!-- 案例研究 / Case Studies / Fallstudien -->
+    <url>
+        <loc>https://seogeo.cc/case-studies.html</loc>
+        <lastmod>2024-12-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/case-studies.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/case-studies.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/case-studies.html"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/en/case-studies.html</loc>
+        <lastmod>2024-12-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/case-studies.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/case-studies.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/case-studies.html"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/de/case-studies.html</loc>
+        <lastmod>2024-12-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/case-studies.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/case-studies.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/case-studies.html"/>
+    </url>
+    
+    <!-- SEO基础教程 / SEO Basics / SEO Grundlagen -->
+    <url>
+        <loc>https://seogeo.cc/seo-basics.html</loc>
+        <lastmod>2024-12-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/seo-basics.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/seo-basics.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/seo-basics.html"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/en/seo-basics.html</loc>
+        <lastmod>2024-12-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/seo-basics.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/seo-basics.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/seo-basics.html"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/de/seo-basics.html</loc>
+        <lastmod>2024-12-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/seo-basics.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/seo-basics.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/seo-basics.html"/>
+    </url>
+    
+    <!-- 关键词研究 / Keyword Research / Keyword Recherche -->
+    <url>
+        <loc>https://seogeo.cc/keyword-research.html</loc>
+        <lastmod>2024-12-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/keyword-research.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/keyword-research.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/keyword-research.html"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/en/keyword-research.html</loc>
+        <lastmod>2024-12-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/keyword-research.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/keyword-research.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/keyword-research.html"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/de/keyword-research.html</loc>
+        <lastmod>2024-12-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/keyword-research.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/keyword-research.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/keyword-research.html"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/en/keyword-research.html</loc>
+        <lastmod>2024-12-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/keyword-research.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/keyword-research.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/keyword-research.html"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/de/keyword-research.html</loc>
+        <lastmod>2024-12-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/keyword-research.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/keyword-research.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/keyword-research.html"/>
+    </url>
+    
+    <!-- SEO文章写作指南 / SEO Article Writing Guide / SEO-Texterstellung Leitfaden -->
+    <url>
+        <loc>https://seogeo.cc/seo-article-writing-guide.html</loc>
+        <lastmod>2025-01-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/seo-article-writing-guide.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/seo-article-writing-guide.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/seo-article-writing-guide.html"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/en/seo-article-writing-guide.html</loc>
+        <lastmod>2025-01-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/seo-article-writing-guide.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/seo-article-writing-guide.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/seo-article-writing-guide.html"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/de/seo-article-writing-guide.html</loc>
+        <lastmod>2025-01-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/seo-article-writing-guide.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/seo-article-writing-guide.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/seo-article-writing-guide.html"/>
+    </url>
+    
+    <!-- 外链建设 / Link Building / Linkbuilding -->
+    <url>
+        <loc>https://seogeo.cc/link-building.html</loc>
+        <lastmod>2024-12-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/link-building.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/link-building.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/link-building.html"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/en/link-building.html</loc>
+        <lastmod>2024-12-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/link-building.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/link-building.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/link-building.html"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/de/link-building.html</loc>
+        <lastmod>2024-12-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/link-building.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/link-building.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/link-building.html"/>
+    </url>
+    
+    <!-- 技术SEO / Technical SEO / Technisches SEO -->
+    <url>
+        <loc>https://seogeo.cc/technical-seo.html</loc>
+        <lastmod>2024-12-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/technical-seo.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/technical-seo.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/technical-seo.html"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/en/technical-seo.html</loc>
+        <lastmod>2024-12-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/technical-seo.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/technical-seo.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/technical-seo.html"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/de/technical-seo.html</loc>
+        <lastmod>2024-12-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/technical-seo.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/technical-seo.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/technical-seo.html"/>
+    </url>
+    
+    <!-- 其他专业页面 / Other Professional Pages / Weitere Professionelle Seiten -->
+    <url>
+        <loc>https://seogeo.cc/seo-algorithm-understanding.html</loc>
+        <lastmod>2024-12-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/seo-algorithm-understanding.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/seo-algorithm-understanding.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/seo-algorithm-understanding.html"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/en/seo-algorithm-understanding.html</loc>
+        <lastmod>2025-01-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/seo-algorithm-understanding.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/seo-algorithm-understanding.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/seo-algorithm-understanding.html"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/de/seo-algorithm-understanding.html</loc>
+        <lastmod>2025-01-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/seo-algorithm-understanding.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/seo-algorithm-understanding.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/seo-algorithm-understanding.html"/>
+    </url>
+
+    <url>
+        <loc>https://seogeo.cc/long-tail-keywords.html</loc>
+        <lastmod>2024-12-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/long-tail-keywords.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/long-tail-keywords.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/long-tail-keywords.html"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/en/long-tail-keywords.html</loc>
+        <lastmod>2025-01-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/long-tail-keywords.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/long-tail-keywords.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/long-tail-keywords.html"/>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/de/long-tail-keywords.html</loc>
+        <lastmod>2025-01-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://seogeo.cc/long-tail-keywords.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://seogeo.cc/en/long-tail-keywords.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://seogeo.cc/de/long-tail-keywords.html"/>
+    </url>
+    
+    <!-- 其他页面 (Chinese only for now) -->
+    <url>
+        <loc>https://seogeo.cc/mobile-seo-optimization.html</loc>
+        <lastmod>2024-12-22</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/search-intent-analysis.html</loc>
+        <lastmod>2024-12-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/structured-data-guide.html</loc>
+        <lastmod>2024-12-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/seo-content-strategy.html</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/guest-posting-strategy.html</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/google-analytics-seo.html</loc>
+        <lastmod>2024-12-17</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/b2b-seo-case.html</loc>
+        <lastmod>2024-12-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/ecommerce-seo-case.html</loc>
+        <lastmod>2024-12-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/seo-tools-guide.html</loc>
+        <lastmod>2024-12-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/local-seo-strategy.html</loc>
+        <lastmod>2024-12-13</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/multilingual-seo.html</loc>
+        <lastmod>2024-12-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/voice-search-seo.html</loc>
+        <lastmod>2024-12-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/seo-audit-checklist.html</loc>
+        <lastmod>2024-12-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/competitor-analysis.html</loc>
+        <lastmod>2024-12-09</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/seo-roi-calculation.html</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/seo-trend-2024.html</loc>
+        <lastmod>2024-12-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/seo-mistakes-avoid.html</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/seo-future-predictions.html</loc>
+        <lastmod>2024-12-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- 辅助页面 / Auxiliary Pages / Hilfsseiten -->
+    <url>
+        <loc>https://seogeo.cc/all-pages-list.html</loc>
+        <lastmod>2024-12-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/privacy.html</loc>
+        <lastmod>2024-12-01</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://seogeo.cc/terms.html</loc>
+        <lastmod>2024-12-01</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
 </urlset>
