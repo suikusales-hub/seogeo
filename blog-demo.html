@@ -49,10 +49,31 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css">
     
     <style>
-        .seo-note {
-            color: #22c55e;
-            font-weight: 600;
-            font-size: 14px;
+         /* 页面特定样式 */
+         .main-content {
+             margin-top: 80px;
+         }
+         /* 页脚居中修复 */
+         .footer-container {
+             max-width: 1200px;
+             margin: 0 auto;
+             padding: 0 20px;
+         }
+         .footer-content {
+             justify-content: center;
+         }
+         .footer-bottom {
+             justify-content: center;
+             gap: 1.5rem;
+         }
+         .footer-links {
+             justify-content: center;
+         }
+         
+         .seo-note {
+             color: #22c55e;
+             font-weight: 600;
+             font-size: 14px;
             margin: 10px 0;
             padding: 8px 12px;
             background-color: #f0fdf4;
@@ -176,7 +197,8 @@
             margin: 30px 0;
         }
         
-        .nav-link {
+        /* 仅用于文章内的上一页/下一页链接，避免与顶部导航 .nav-link 冲突 */
+        .post-nav-link {
             padding: 15px;
             background: #f9fafb;
             border-radius: 8px;
@@ -185,7 +207,7 @@
             border: 1px solid #e5e7eb;
         }
         
-        .nav-link:hover {
+        .post-nav-link:hover {
             background: #f3f4f6;
         }
         
@@ -229,8 +251,11 @@
         <nav class="navbar">
             <div class="nav-container">
                 <div class="nav-logo">
-                    <h1><a href="/">SEO小平</a></h1>
-                    <p class="tagline">谷歌SEO专家</p>
+                    <img src="images/logo.png" alt="SEO小平" class="nav-logo-img">
+                    <div class="nav-text">
+                        <h1><a href="/">SEO小平</a></h1>
+                        <p class="tagline">谷歌SEO专家</p>
+                    </div>
                 </div>
                 
                 <div class="nav-menu" id="nav-menu">
@@ -240,23 +265,26 @@
                         <li><a href="/seo-course.html" class="nav-link">SEO课程</a></li>
                         <li><a href="/tools.html" class="nav-link">SEO工具</a></li>
                         <li><a href="/case-studies.html" class="nav-link">案例研究</a></li>
-                        <li><a href="/blog-demo.html" class="nav-link">博客Demo</a></li>
+                        <li><a href="/blog-demo.html" class="nav-link active">博客Demo</a></li>
                         <li><a href="/about.html" class="nav-link">关于我</a></li>
                         <li><a href="/contact.html" class="nav-link">联系我</a></li>
                     </ul>
                 </div>
                 
-                <div class="nav-toggle" id="nav-toggle">
-                    <span></span>
-                    <span></span>
-                    <span></span>
+                <div class="nav-right">
+                    <div class="nav-toggle" id="nav-toggle">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
                 </div>
             </div>
         </nav>
     </header>
 
-    <main class="blog-container">
-        <article class="blog-content">
+    <main class="main-content">
+        <div class="blog-container">
+            <article class="blog-content">
             <!-- 特色图片 -->
             <img src="images/blog-content-strategy.png" alt="WordPress博客SEO最佳实践指南" class="featured-image">
             <div class="seo-note">SEO说明：特色图片是博客的重要视觉元素，有助于提升用户体验和社交媒体分享效果</div>
@@ -382,11 +410,11 @@
             <!-- 上一篇/下一篇导航 -->
             <div class="navigation-links">
                 <div class="seo-note">SEO说明：上一篇/下一篇链接增加内链结构，帮助搜索引擎爬虫发现更多页面，提升网站整体权重</div>
-                <a href="/seo-basics.html" class="nav-link">
+                <a href="/seo-basics.html" class="post-nav-link">
                     <div>← 上一篇</div>
                     <div><strong>SEO基础知识完整指南</strong></div>
                 </a>
-                <a href="/keyword-research.html" class="nav-link">
+                <a href="/keyword-research.html" class="post-nav-link">
                     <div>下一篇 →</div>
                     <div><strong>关键词研究的完整指南</strong></div>
                 </a>
@@ -531,5 +559,9 @@
             });
         });
     </script>
+        </div>
+    </main>
+    
+    <script src="js/main.js"></script>
 </body>
 </html>
